@@ -18,6 +18,9 @@ otherdir = os.path.join(BASE_DIR, 'static/goods/other/')
 
 def get_all_subdir(path):
     dirlist = []
+    root = []
+    dirs = []
+    files = []
     for root, dirs, files in os.walk(path, topdown=False):
         pass
     return dirs
