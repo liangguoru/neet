@@ -446,3 +446,34 @@ index was called!!
  {'name': 'Azurlane/', 'datalist': []}
 /home/data/neet/templates
 the paths of static file is: /home/data/neet/static
+Watching for file changes with StatReloader
+[01/Jul/2023 13:22:42] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 14:47:50] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6485
+[01/Jul/2023 14:47:55] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6485
+[01/Jul/2023 14:47:59] "GET /Pannel_baozhen/ HTTP/1.1" 200 3528
+[01/Jul/2023 14:48:01] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 3248
+[01/Jul/2023 14:48:01] "GET /static/goods/baozhen/Azurlane/buzhihuowu/icon.png HTTP/1.1" 200 75754
+[01/Jul/2023 14:48:02] "GET /Detail_baozhen_Azurlane/buzhihuowu/ HTTP/1.1" 200 6994
+[01/Jul/2023 14:48:02] "GET /static/goods/baozhen/Azurlane/buzhihuowu/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 200 149608
+[01/Jul/2023 14:48:04] "GET /static/goods/baozhen/Azurlane/buzhihuowu/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1_Detail.png HTTP/1.1" 200 909506
+[01/Jul/2023 15:33:39] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 15:33:41] "GET /Pannel_baozhen/ HTTP/1.1" 200 3528
+[01/Jul/2023 15:33:43] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 3557
+[01/Jul/2023 15:33:43] "GET /static/goods/baozhen/Azurlane/buzhihuowu/icon.png HTTP/1.1" 304 0
+[01/Jul/2023 15:33:43] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 200 490839
+[01/Jul/2023 15:33:49] "GET /Detail_baozhen_Azurlane/zhenhai/ HTTP/1.1" 200 7495
+[01/Jul/2023 15:33:49] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png HTTP/1.1" 200 80914
+[01/Jul/2023 15:33:49] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png HTTP/1.1" 200 83915
+[01/Jul/2023 15:33:58] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 15:34:00] "GET /Pannel_baozhen/ HTTP/1.1" 200 3528
+[01/Jul/2023 15:34:01] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 3557
+[01/Jul/2023 15:37:52] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 15:37:54] "GET /Pannel_baozhen/ HTTP/1.1" 200 3528
+[01/Jul/2023 15:37:55] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 3557
+[01/Jul/2023 15:37:55] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 304 0
+[01/Jul/2023 15:37:58] "GET /Detail_baozhen_Azurlane/zhenhai/ HTTP/1.1" 200 7495
+[01/Jul/2023 15:37:58] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png HTTP/1.1" 304 0
+[01/Jul/2023 15:37:58] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png HTTP/1.1" 304 0
+[01/Jul/2023 15:38:03] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png HTTP/1.1" 200 1355297
+[01/Jul/2023 15:38:04] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png HTTP/1.1" 200 1361391
+[01/Jul/2023 15:38:19] "GET / HTTP/1.1" 200 4341
