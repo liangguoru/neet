@@ -1,0 +1,448 @@
+Watching for file changes with StatReloader
+[23/Jun/2023 15:52:52] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6485
+[23/Jun/2023 15:52:52] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:52] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:52] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:52] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:52] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:52] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[23/Jun/2023 15:52:53] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[23/Jun/2023 15:55:17] "GET / HTTP/1.1" 200 4341
+[23/Jun/2023 15:55:17] "GET /static/assets/style/screen.css HTTP/1.1" 200 1753
+[23/Jun/2023 15:55:17] "GET /static/assets/css/bootstrap.css HTTP/1.1" 200 115297
+[23/Jun/2023 15:55:17] "GET /static/assets/css/font-awesome.css HTTP/1.1" 200 27101
+[23/Jun/2023 15:55:17] "GET /static/assets/style/style.css HTTP/1.1" 200 4742
+[23/Jun/2023 15:55:17] "GET /static/assets/css/thin-admin.css HTTP/1.1" 200 15747
+[23/Jun/2023 15:55:17] "GET /static/assets/style/dashboard.css HTTP/1.1" 200 3442
+[23/Jun/2023 15:55:17] "GET /static/assets/style/lightbox.css HTTP/1.1" 200 4118
+[23/Jun/2023 15:55:17] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[23/Jun/2023 15:55:17] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[23/Jun/2023 15:55:17] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[23/Jun/2023 15:55:17] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[23/Jun/2023 15:55:17] "GET /static/goods/baozhentu.png HTTP/1.1" 200 2927
+[23/Jun/2023 15:55:17] "GET /static/goods/lipai.png HTTP/1.1" 200 2570
+[23/Jun/2023 15:55:17] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 43572
+[23/Jun/2023 15:55:17] "GET /static/goods/shubiaodian.png HTTP/1.1" 200 3230
+[23/Jun/2023 15:55:17] "GET /static/goods/yaoshikou.png HTTP/1.1" 200 2492
+[23/Jun/2023 15:55:18] "GET /static/goods/other.png HTTP/1.1" 200 2288
+[23/Jun/2023 15:55:18] "GET /static/assets/img/loading.gif HTTP/1.1" 200 8476
+[23/Jun/2023 15:55:18] "GET /static/assets/img/close.png HTTP/1.1" 200 280
+[23/Jun/2023 15:55:18] "GET /static/assets/images/ios7.jpg HTTP/1.1" 200 521166
+Not Found: /favicon.ico
+[23/Jun/2023 15:55:18] "GET /favicon.ico HTTP/1.1" 404 2324
+[23/Jun/2023 15:55:19] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[23/Jun/2023 15:55:19] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 200 101353
+[23/Jun/2023 15:55:19] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 200 98179
+[23/Jun/2023 15:55:21] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6961
+[23/Jun/2023 15:55:21] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 200 149608
+[23/Jun/2023 15:55:22] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1_Detail.png HTTP/1.1" 200 909506
+[23/Jun/2023 15:55:29] "GET / HTTP/1.1" 200 4341
+[23/Jun/2023 15:55:32] "GET /static/goods/lipai.png HTTP/1.1" 200 2570
+[23/Jun/2023 15:55:32] "GET /static/goods/baozhentu.png HTTP/1.1" 200 2927
+[23/Jun/2023 15:55:32] "GET /static/goods/yaoshikou.png HTTP/1.1" 200 2492
+[23/Jun/2023 15:55:32] "GET /static/goods/shubiaodian.png HTTP/1.1" 200 3230
+[23/Jun/2023 15:55:32] "GET /static/goods/other.png HTTP/1.1" 200 2288
+[23/Jun/2023 15:55:32] "GET /static/assets/img/loading.gif HTTP/1.1" 200 8476
+[23/Jun/2023 15:55:32] "GET /static/assets/img/close.png HTTP/1.1" 200 280
+[23/Jun/2023 15:55:33] "GET /static/assets/images/ios7.jpg HTTP/1.1" 200 521166
+[23/Jun/2023 16:05:20] "GET / HTTP/1.1" 200 4341
+[23/Jun/2023 16:05:20] "GET /static/goods/baozhentu.png HTTP/1.1" 200 2927
+[23/Jun/2023 16:05:20] "GET /static/goods/lipai.png HTTP/1.1" 200 2570
+[23/Jun/2023 16:05:20] "GET /static/goods/shubiaodian.png HTTP/1.1" 200 3230
+[23/Jun/2023 16:05:20] "GET /static/goods/yaoshikou.png HTTP/1.1" 200 2492
+[23/Jun/2023 16:05:20] "GET /static/goods/other.png HTTP/1.1" 200 2288
+Not Found: /favicon.ico
+[23/Jun/2023 16:05:20] "GET /favicon.ico HTTP/1.1" 404 2324
+[23/Jun/2023 16:05:21] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[23/Jun/2023 16:05:21] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 200 98179
+[23/Jun/2023 16:05:21] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 200 101353
+[23/Jun/2023 16:05:23] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6961
+[23/Jun/2023 16:05:23] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 200 149608
+[23/Jun/2023 16:05:24] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1_Detail.png HTTP/1.1" 200 909506
+[23/Jun/2023 16:05:33] "GET / HTTP/1.1" 200 4341
+Internal Server Error: /Pannel_shubiaodian/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in goods_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[23/Jun/2023 16:05:35] "GET /Pannel_shubiaodian/ HTTP/1.1" 500 60044
+Internal Server Error: /Pannel_lipai/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in goods_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[23/Jun/2023 16:05:54] "GET /Pannel_lipai/ HTTP/1.1" 500 59960
+[23/Jun/2023 16:06:06] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[24/Jun/2023 02:45:58] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/goods/other.png HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[24/Jun/2023 02:45:58] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+Internal Server Error: /Pannel_lipai/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in goods_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[24/Jun/2023 02:46:00] "GET /Pannel_lipai/ HTTP/1.1" 500 60573
+[24/Jun/2023 07:59:14] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 07:59:14] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 07:59:15] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[24/Jun/2023 07:59:15] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[24/Jun/2023 07:59:15] "GET /favicon.ico HTTP/1.1" 404 2324
+[24/Jun/2023 08:07:21] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/goods/other.png HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[24/Jun/2023 08:07:21] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+/home/data/neet/templates
+the paths of static file is: /home/data/neet/static
+Watching for file changes with StatReloader
+[24/Jun/2023 08:54:59] "GET / HTTP/1.1" 200 4341
+[24/Jun/2023 08:54:59] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[24/Jun/2023 08:54:59] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[24/Jun/2023 08:54:59] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[24/Jun/2023 08:54:59] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[24/Jun/2023 08:54:59] "GET /static/goods/other.png HTTP/1.1" 304 0
+[24/Jun/2023 08:55:01] "GET /Pannel_lipai/ HTTP/1.1" 200 2938
+[24/Jun/2023 08:55:04] "GET /Pannel_yaoshikou/ HTTP/1.1" 200 2942
+[24/Jun/2023 08:55:06] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[24/Jun/2023 08:55:06] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 08:55:06] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 08:55:07] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6961
+[24/Jun/2023 08:55:07] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 200 149608
+[24/Jun/2023 08:55:08] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1_Detail.png HTTP/1.1" 200 909506
+[24/Jun/2023 09:07:13] "GET / HTTP/1.1" 200 4341
+[24/Jun/2023 09:07:15] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[24/Jun/2023 09:07:16] "GET /Detail_baozhen_Hokai3/ HTTP/1.1" 200 6483
+[24/Jun/2023 09:07:17] "GET / HTTP/1.1" 200 4341
+[24/Jun/2023 09:13:01] "GET / HTTP/1.1" 200 4341
+[24/Jun/2023 11:40:14] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 11:40:14] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[24/Jun/2023 11:40:15] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[24/Jun/2023 11:40:16] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[24/Jun/2023 11:40:30] "GET /favicon.ico HTTP/1.1" 404 2324
+Not Found: /favicon.ico
+[24/Jun/2023 11:40:30] "GET /favicon.ico HTTP/1.1" 404 2324
+[24/Jun/2023 12:17:17] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/goods/other.png HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[24/Jun/2023 12:17:17] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[24/Jun/2023 12:18:02] "GET /Pannel_yaoshikou/ HTTP/1.1" 200 2942
+[24/Jun/2023 12:18:04] "GET / HTTP/1.1" 200 4341
+[24/Jun/2023 14:21:53] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:53] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:53] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:53] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:53] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:53] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[24/Jun/2023 14:21:54] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[24/Jun/2023 14:21:55] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[24/Jun/2023 14:22:04] "GET /favicon.ico HTTP/1.1" 404 2324
+Not Found: /favicon.ico
+[24/Jun/2023 14:22:05] "GET /favicon.ico HTTP/1.1" 404 2324
+Not Found: /example.com:80
+[24/Jun/2023 18:31:10] "CONNECT example.com:80 HTTP/1.1" 404 1791
+[24/Jun/2023 18:31:10,958] - Broken pipe from ('185.224.128.17', 53044)
+
+[24/Jun/2023 18:31:25] code 400, message Bad request syntax ('\x05\x01\x00')
+[24/Jun/2023 18:31:25] " " 400 -
+[24/Jun/2023 18:31:25] code 400, message Bad request syntax ('\x04\x01\x00P\x00\x00\x00\x01\x00example.com\x00')
+[24/Jun/2023 18:31:25] " P    example.com " 400 -
+[25/Jun/2023 02:49:08] "GET / HTTP/1.1" 200 4341
+[25/Jun/2023 02:49:08] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[25/Jun/2023 02:49:08] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/goods/other.png HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[25/Jun/2023 02:49:09] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[25/Jun/2023 03:04:55] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[25/Jun/2023 03:04:56] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[25/Jun/2023 03:04:56] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[25/Jun/2023 03:04:56] "GET /favicon.ico HTTP/1.1" 404 2324
+[26/Jun/2023 10:05:50] "GET / HTTP/1.1" 200 4341
+Not Found: /example.com:80
+[28/Jun/2023 07:32:03] "CONNECT example.com:80 HTTP/1.1" 404 1791
+[28/Jun/2023 07:32:03] code 400, message Bad request syntax ('\x00')
+[28/Jun/2023 07:32:03] " " 400 -
+[28/Jun/2023 07:32:18] code 400, message Bad request syntax ('\x04\x01\x00P\x00\x00\x00\x01\x00example.com\x00')
+[28/Jun/2023 07:32:18] " P    example.com " 400 -
+[28/Jun/2023 07:32:18] code 400, message Bad request syntax ('\x05\x01\x00')
+[28/Jun/2023 07:32:18] " " 400 -
+[01/Jul/2023 09:47:43] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 09:47:43] "GET /static/assets/style/screen.css HTTP/1.1" 200 1753
+[01/Jul/2023 09:47:43] "GET /static/assets/css/bootstrap.css HTTP/1.1" 200 115297
+[01/Jul/2023 09:47:43] "GET /static/assets/style/style.css HTTP/1.1" 200 4742
+[01/Jul/2023 09:47:43] "GET /static/assets/css/thin-admin.css HTTP/1.1" 200 15747
+[01/Jul/2023 09:47:43] "GET /static/assets/css/font-awesome.css HTTP/1.1" 200 27101
+[01/Jul/2023 09:47:43] "GET /static/assets/style/dashboard.css HTTP/1.1" 200 3442
+[01/Jul/2023 09:47:43] "GET /static/assets/style/lightbox.css HTTP/1.1" 200 4118
+[01/Jul/2023 09:47:43] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[01/Jul/2023 09:47:43] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[01/Jul/2023 09:47:43] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[01/Jul/2023 09:47:43] "GET /static/goods/baozhentu.png HTTP/1.1" 200 2927
+[01/Jul/2023 09:47:43] "GET /static/goods/lipai.png HTTP/1.1" 200 2570
+[01/Jul/2023 09:47:43] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[01/Jul/2023 09:47:43] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 43572
+[01/Jul/2023 09:47:43] "GET /static/goods/shubiaodian.png HTTP/1.1" 200 3230
+[01/Jul/2023 09:47:43] "GET /static/assets/images/ios7.jpg HTTP/1.1" 200 521166
+[01/Jul/2023 09:47:43] "GET /static/goods/yaoshikou.png HTTP/1.1" 200 2492
+[01/Jul/2023 09:47:43] "GET /static/goods/other.png HTTP/1.1" 200 2288
+[01/Jul/2023 09:47:43] "GET /static/assets/img/loading.gif HTTP/1.1" 200 8476
+[01/Jul/2023 09:47:43] "GET /static/assets/img/close.png HTTP/1.1" 200 280
+[01/Jul/2023 09:47:45] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[01/Jul/2023 09:47:45] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 200 101353
+[01/Jul/2023 09:47:45] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 200 98179
+[01/Jul/2023 09:47:47] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6961
+[01/Jul/2023 09:47:47] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 200 149608
+[01/Jul/2023 09:47:50] "GET /static/goods/baozhen/Azurlane/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1_Detail.png HTTP/1.1" 200 909506
+[01/Jul/2023 09:48:41] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TST00f03d10622bba1cdd7d452d872e576b')
+[01/Jul/2023 09:53:10] "TST00f03d10622bba1cdd7d452d872e576b" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('c131f3442049bb930d0c6c3e4dd7ac05')
+[01/Jul/2023 09:53:10] "c131f3442049bb930d0c6c3e4dd7ac05" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('647a38b2a47068535a98658ef0f7f6fa')
+[01/Jul/2023 09:53:10] "647a38b2a47068535a98658ef0f7f6fa" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('46c85d5855720d1b8e10478d24258615')
+[01/Jul/2023 09:53:10] "46c85d5855720d1b8e10478d24258615" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TST26a99ad1c618c0c0cdba09fdfeea13b1')
+[01/Jul/2023 09:53:10] "TST26a99ad1c618c0c0cdba09fdfeea13b1" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TSTb7288ada2ecfbd3d2006bff348770afc')
+[01/Jul/2023 09:53:10] "TSTb7288ada2ecfbd3d2006bff348770afc" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TST\x06\x00\x00\x000.25.0\x06\x00\x00\x000.25.0')
+[01/Jul/2023 09:53:10] "TST   0.25.0   0.25.0" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TSTbdd60ff0b6bf832ce13ffef26d6a1a8f')
+[01/Jul/2023 09:53:10] "TSTbdd60ff0b6bf832ce13ffef26d6a1a8f" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TST\x06\x00\x00\x000.26.0\x06\x00\x00\x000.26.0')
+[01/Jul/2023 09:53:10] "TST   0.26.0   0.26.0" 400 -
+[01/Jul/2023 09:53:10] code 400, message Bad request syntax ('TST3ecfeacfa947bad5c0e33232c53f2a49')
+[01/Jul/2023 09:53:10] "TST3ecfeacfa947bad5c0e33232c53f2a49" 400 -
+[01/Jul/2023 09:53:11] code 400, message Bad request syntax ('TST91f0e93c45d1399d892642ae46d6f951')
+[01/Jul/2023 09:53:11] "TST91f0e93c45d1399d892642ae46d6f951" 400 -
+[01/Jul/2023 09:54:21] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 09:54:21] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:21] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:21] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:21] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:21] "GET /static/goods/other.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[01/Jul/2023 09:54:22] "GET /favicon.ico HTTP/1.1" 404 2324
+[01/Jul/2023 09:54:22] "GET /Pannel_baozhen/ HTTP/1.1" 200 3522
+[01/Jul/2023 09:54:22] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:22] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[01/Jul/2023 09:54:24] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6485
+[01/Jul/2023 09:54:28] "GET /Detail_baozhen_Azurlane/ HTTP/1.1" 200 6485
+/home/data/neet/templates
+the paths of static file is: /home/data/neet/static
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+June 24, 2023 - 08:54:49
+Django version 3.2.19, using settings 'neet.settings'
+Starting development server at http://0.0.0.0:8888/
+Quit the server with CONTROL-C.
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'lipai', 'datalist': []}
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'yaoshikou', 'datalist': []}
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Detail_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Detail_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': [{'name': '001-不知火舞-A1', 'picpath': '/static/goods/baozhen/Azurlane/001-不知火舞-A1.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/001-不知火舞-A1_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Detail_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Detail_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Hokai3/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Hokai3/', 'datalist': []}
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'yaoshikou', 'datalist': []}
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Detail_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Detail_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': [{'name': '001-不知火舞-A1', 'picpath': '/static/goods/baozhen/Azurlane/001-不知火舞-A1.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/001-不知火舞-A1_Detail.png'}]}
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Detail_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Detail_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': []}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': []}
+/home/data/neet/templates
+the paths of static file is: /home/data/neet/static

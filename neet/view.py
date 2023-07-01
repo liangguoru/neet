@@ -18,9 +18,6 @@ otherdir = os.path.join(BASE_DIR, 'static/goods/other/')
 
 def get_all_subdir(path):
     dirlist = []
-    root = []
-    dirs = []
-    files = []
     for root, dirs, files in os.walk(path, topdown=False):
         pass
     return dirs
@@ -45,7 +42,7 @@ def index(request):
     context = {}
     return render(request,'index.html',context)
 
-def goods_panel(request):
+def games_list_panel(request):
     context = {}
     goodstype = request.path.replace("/","").replace("Pannel_","")
     context['name'] = goodstype
@@ -57,22 +54,43 @@ def goods_panel(request):
         gamedir = goods_type_dir + game + "/"
         gameicon = '/static/goods/'+ goodstype + "/" + game + "/icon.png"
         data["name"] = game
-        data["link"] = "/" + "Detail_" + goodstype + "_" + game + "/"
+        data["link"] = "/" + "Gamegoods_" + goodstype + "_" + game + "/"
         data["iconpath"] = gameicon
         datalist.append(data)
     context["datalist"] = datalist
     print ("++++++++++++++LGR Debug++++++++++++++\n", context)
-    return render(request,'goodspannel.html',context)
+    return render(request,'games_list_pannel.html',context)
+
+def game_goods_list(request):
+    context = {}
+    _tempdata = request.path.replace("/","").replace("Gamegoods_","")
+    goodstype = _tempdata.split("_")[0]
+    game = _tempdata.split("_")[1]
+    game_goods_dir = os.path.join(BASE_DIR, 'static/goods/'+ goodstype + "/" + game + "/")
+    gamegoods = get_all_subdir(game_goods_dir)
+    datalist = []
+    for goods in gamegoods:
+        data = {}
+        goodsdir = game_goods_dir + goods + "/"
+        goodsicon = '/static/goods/'+ goodstype + "/" + game + "/" + goods + "/icon.png"
+        data["name"] = goods
+        data["link"] = "/" + "Detail_" + goodstype + "_" + game + "/" + goods + "/"
+        data["iconpath"] = goodsicon
+        datalist.append(data)
+    context["datalist"] = datalist
+    print ("++++++++++++++LGR Debug++++++++++++++\n", context)
+    return render(request,'games_goods_list.html',context)
+
 
 def goods_detail(request):
     context = {}
     goodstype = request.path.split("_")[1]
     game = request.path.split("_")[2]
     context['name'] = game
-    os_game_dir = os.path.join(BASE_DIR, 'static/goods/'+ goodstype + "/"  + game)
+    goods_detail_dir = os.path.join(BASE_DIR, 'static/goods/'+ goodstype + "/"  + game)
     game_dir = '/static/goods/'+ goodstype + "/" + game
-    print("----------------------",os_game_dir)
-    piclist = get_all_files(os_game_dir, ["icon.png","_Detail.png"])
+    print("----------------------",goods_detail_dir)
+    piclist = get_all_files(goods_detail_dir, ["icon.png","_Detail.png"])
     datalist = []
     for pic in piclist:
         data = {}

@@ -21,7 +21,8 @@ from . import view as view
 
 urlpatterns = [
     path('', view.index),
-    url(r'^Pannel_*', view.goods_panel),
+    url(r'^Pannel_*', view.games_list_panel),
+    url(r'^Gamegoods_*', view.game_goods_list),
     url(r'^Detail_*', view.goods_detail),
     # path('', view.index),
 ]
