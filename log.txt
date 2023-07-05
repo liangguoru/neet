@@ -477,3 +477,725 @@ Watching for file changes with StatReloader
 [01/Jul/2023 15:38:03] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png HTTP/1.1" 200 1355297
 [01/Jul/2023 15:38:04] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png HTTP/1.1" 200 1361391
 [01/Jul/2023 15:38:19] "GET / HTTP/1.1" 200 4341
+[01/Jul/2023 15:53:49] "GET /Pannel_baozhen/ HTTP/1.1" 200 3528
+[01/Jul/2023 15:53:51] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 3864
+[01/Jul/2023 15:53:51] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 304 0
+[01/Jul/2023 15:53:51] "GET /static/goods/baozhen/Azurlane/yetsan/icon.png HTTP/1.1" 200 82977
+[01/Jul/2023 15:53:54] "GET /Detail_baozhen_Azurlane/yetsan/ HTTP/1.1" 200 7486
+[01/Jul/2023 15:53:54] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren.png HTTP/1.1" 200 96940
+[01/Jul/2023 15:53:54] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang.png HTTP/1.1" 200 96539
+[01/Jul/2023 15:53:57] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang_Detail.png HTTP/1.1" 200 1592516
+[01/Jul/2023 15:53:58] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren_Detail.png HTTP/1.1" 200 1596763
+[01/Jul/2023 17:18:01] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 09:21:02] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 09:21:02] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:02] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/goods/other.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[02/Jul/2023 09:21:03] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:04] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 09:21:04] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 200 44807
+[02/Jul/2023 09:21:04] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:04] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:06] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 09:21:06] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+[02/Jul/2023 09:21:08] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 09:21:08] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png HTTP/1.1" 200 98853
+[02/Jul/2023 09:21:08] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png HTTP/1.1" 200 97855
+[02/Jul/2023 09:21:10] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png HTTP/1.1" 200 1636269
+[02/Jul/2023 09:21:11] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png HTTP/1.1" 200 1635790
+[02/Jul/2023 09:21:29] "GET /static/assets/img/prev.png HTTP/1.1" 200 1360
+[02/Jul/2023 09:21:49] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 09:21:51] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 09:21:51] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 09:21:56] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 09:44:21] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 09:44:21] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 304 0
+/home/data/neet/templates
+the paths of static file is: /home/data/neet/static
+Performing system checks...
+
+System check identified no issues (0 silenced).
+
+You have 18 unapplied migration(s). Your project may not work properly until you apply the migrations for app(s): admin, auth, contenttypes, sessions.
+Run 'python manage.py migrate' to apply them.
+July 01, 2023 - 13:22:36
+Django version 3.2.19, using settings 'neet.settings'
+Starting development server at http://0.0.0.0:8888/
+Quit the server with CONTROL-C.
+index was called!!
+
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': []}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/', 'datalist': []}
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/buzhihuowu/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/buzhihuowu/', 'datalist': [{'name': '001-不知火舞-A1', 'picpath': '/static/goods/baozhen/Azurlane/buzhihuowu/001-不知火舞-A1.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/buzhihuowu/001-不知火舞-A1_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/zhenhai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/zhenhai/', 'datalist': [{'name': 'zhenhai-preview-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png'}, {'name': 'zhenhai-preview-daren', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/zhenhai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/zhenhai/', 'datalist': [{'name': 'zhenhai-preview-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png'}, {'name': 'zhenhai-preview-daren', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/yetsan/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/yetsan/', 'datalist': [{'name': 'yixian-preview-daren', 'picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren_Detail.png'}, {'name': 'yixian-preview-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang_Detail.png'}]}
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+[02/Jul/2023 14:59:01] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 14:59:02] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 14:59:02] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:03] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4187
+[02/Jul/2023 14:59:03] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:03] "GET /static/goods/baozhen/Azurlane/buzhihuowu/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:03] "GET /static/goods/baozhen/Azurlane/yetsan/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:03] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 200 77182
+[02/Jul/2023 14:59:09] "GET /Detail_baozhen_Azurlane/buzhihuowu/ HTTP/1.1" 200 6994
+[02/Jul/2023 14:59:09] "GET /static/goods/baozhen/Azurlane/buzhihuowu/001-%E4%B8%8D%E7%9F%A5%E7%81%AB%E8%88%9E-A1.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:11] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 14:59:13] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 14:59:14] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4187
+[02/Jul/2023 14:59:15] "GET /Detail_baozhen_Azurlane/yetsan/ HTTP/1.1" 200 7486
+[02/Jul/2023 14:59:16] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:16] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:21] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang_Detail.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:22] "GET /static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren_Detail.png HTTP/1.1" 304 0
+[02/Jul/2023 14:59:30] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 14:59:34] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 14:59:35] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4187
+[02/Jul/2023 14:59:38] "GET /Detail_baozhen_Azurlane/taihouswimsuit/ HTTP/1.1" 200 7530
+[02/Jul/2023 14:59:38] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang.png HTTP/1.1" 200 90704
+[02/Jul/2023 14:59:38] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren.png HTTP/1.1" 200 90176
+[02/Jul/2023 14:59:41] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren_Detail.png HTTP/1.1" 200 1425545
+[02/Jul/2023 14:59:42] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang_Detail.png HTTP/1.1" 200 1462094
+[02/Jul/2023 14:59:54] "GET /static/assets/img/next.png HTTP/1.1" 200 1350
+[02/Jul/2023 15:00:05] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 15:10:47] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 15:10:50] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4197
+[02/Jul/2023 15:10:50] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 200 83521
+[02/Jul/2023 15:10:50] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:10:52] "GET /Detail_baozhen_Azurlane/AzumaChinadress/ HTTP/1.1" 200 7535
+[02/Jul/2023 15:10:52] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-zhengchang.png HTTP/1.1" 200 98593
+[02/Jul/2023 15:10:52] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-daren.png HTTP/1.1" 200 99041
+[02/Jul/2023 15:10:54] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-zhengchang_Detail.png HTTP/1.1" 200 1637693
+[02/Jul/2023 15:10:55] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-daren_Detail.png HTTP/1.1" 200 1645877
+[02/Jul/2023 15:11:09] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 15:22:24] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 15:22:26] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4506
+[02/Jul/2023 15:22:26] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:22:26] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:22:26] "GET /static/goods/baozhen/Azurlane/stlouis/icon.png HTTP/1.1" 200 83083
+[02/Jul/2023 15:22:29] "GET /Detail_baozhen_Azurlane/stlouis/ HTTP/1.1" 200 7463
+[02/Jul/2023 15:22:29] "GET /static/goods/baozhen/Azurlane/stlouis/stlouis_daren.png HTTP/1.1" 200 98456
+[02/Jul/2023 15:22:29] "GET /static/goods/baozhen/Azurlane/stlouis/stlouis_zhengchang.png HTTP/1.1" 200 98799
+[02/Jul/2023 15:22:32] "GET /static/goods/baozhen/Azurlane/stlouis/stlouis_daren_Detail.png HTTP/1.1" 200 1686476
+[02/Jul/2023 15:22:33] "GET /static/goods/baozhen/Azurlane/stlouis/stlouis_zhengchang_Detail.png HTTP/1.1" 200 1696350
+[02/Jul/2023 15:22:44] "GET / HTTP/1.1" 200 4341
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/buzhihuowu/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/buzhihuowu/', 'datalist': [{'name': '001-不知火舞-A1', 'picpath': '/static/goods/baozhen/Azurlane/buzhihuowu/001-不知火舞-A1.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/buzhihuowu/001-不知火舞-A1_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/yetsan/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/yetsan/', 'datalist': [{'name': 'yixian-preview-daren', 'picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-daren_Detail.png'}, {'name': 'yixian-preview-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/yetsan/yixian-preview-zhengchang_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'buzhihuowu', 'link': '/Detail_baozhen_Azurlane/buzhihuowu/', 'iconpath': '/static/goods/baozhen/Azurlane/buzhihuowu/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/taihouswimsuit/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/taihouswimsuit/', 'datalist': [{'name': 'taihou-swimsuit-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang_Detail.png'}, {'name': 'taihou-swimsuit-daren', 'picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/AzumaChinadress/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/AzumaChinadress/', 'datalist': [{'name': 'Azumachinadress-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-zhengchang_Detail.png'}, {'name': 'Azumachinadress-daren', 'picpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/Azumachinadress-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/stlouis/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/stlouis/', 'datalist': [{'name': 'stlouis_daren', 'picpath': '/static/goods/baozhen/Azurlane/stlouis/stlouis_daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/stlouis/stlouis_daren_Detail.png'}, {'name': 'stlouis_zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/stlouis/stlouis_zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/stlouis/stlouis_zhengchang_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ [02/Jul/2023 15:31:10] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 15:31:12] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 15:31:12] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:13] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 15:31:13] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:13] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:14] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:15] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:18] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 15:31:24] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 15:31:25] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4823
+[02/Jul/2023 15:31:25] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:25] "GET /static/goods/baozhen/Azurlane/belfastpoki/icon.png HTTP/1.1" 200 78851
+[02/Jul/2023 15:31:25] "GET /static/goods/baozhen/Azurlane/stlouis/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:25] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 15:31:31] "GET /Detail_baozhen_Azurlane/belfastpoki/ HTTP/1.1" 200 7503
+[02/Jul/2023 15:31:31] "GET /static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-daren.png HTTP/1.1" 200 93515
+[02/Jul/2023 15:31:31] "GET /static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-zhengchang.png HTTP/1.1" 200 92467
+[02/Jul/2023 15:31:34] "GET /static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-zhengchang_Detail.png HTTP/1.1" 200 1577787
+[02/Jul/2023 15:31:35] "GET /static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-daren_Detail.png HTTP/1.1" 200 1607279
+[02/Jul/2023 15:31:52] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 21:17:57] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 21:17:57] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:57] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/goods/other.png HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[02/Jul/2023 21:17:58] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:00] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 21:18:00] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 200 44807
+[02/Jul/2023 21:18:00] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:00] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:02] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 21:18:03] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+[02/Jul/2023 21:18:05] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 21:18:05] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png HTTP/1.1" 200 97855
+[02/Jul/2023 21:18:05] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png HTTP/1.1" 200 98853
+[02/Jul/2023 21:18:07] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png HTTP/1.1" 200 1636269
+[02/Jul/2023 21:18:09] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png HTTP/1.1" 200 1635790
+[02/Jul/2023 21:18:31] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 21:18:31] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:31] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:31] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:31] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:31] "GET /static/goods/other.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[02/Jul/2023 21:18:32] "GET /favicon.ico HTTP/1.1" 404 2436
+[02/Jul/2023 21:18:33] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 21:18:33] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 200 44807
+[02/Jul/2023 21:18:33] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:33] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[02/Jul/2023 21:18:35] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4823
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 200 77182
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 200 83521
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/stlouis/icon.png HTTP/1.1" 200 83083
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/yetsan/icon.png HTTP/1.1" 200 82977
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/belfastpoki/icon.png HTTP/1.1" 200 78851
+[02/Jul/2023 21:18:35] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 200 490839
+[02/Jul/2023 21:18:38] "GET /Detail_baozhen_Azurlane/zhenhai/ HTTP/1.1" 200 7495
+[02/Jul/2023 21:18:38] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png HTTP/1.1" 200 80914
+[02/Jul/2023 21:18:38] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png HTTP/1.1" 200 83915
+[02/Jul/2023 21:18:40] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png HTTP/1.1" 200 1355297
+[02/Jul/2023 21:18:41] "GET /static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png HTTP/1.1" 200 1361391
+[02/Jul/2023 21:18:56] "GET / HTTP/1.1" 200 4341
+Internal Server Error: /Pannel_lipai/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in games_list_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[02/Jul/2023 21:18:57] "GET /Pannel_lipai/ HTTP/1.1" 500 59984
+Internal Server Error: /Pannel_lipai/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in games_list_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[02/Jul/2023 21:19:00] "GET /Pannel_lipai/ HTTP/1.1" 500 60121
+[02/Jul/2023 21:19:04] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 21:19:06] "GET /Gamegoods_baozhen_Hokai3/ HTTP/1.1" 200 2933
+[02/Jul/2023 21:19:08] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 21:19:10] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 21:19:12] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 21:19:13] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+[02/Jul/2023 21:19:14] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 21:19:15] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png HTTP/1.1" 200 98853
+[02/Jul/2023 21:19:15] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png HTTP/1.1" 200 97855
+[02/Jul/2023 21:19:19] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png HTTP/1.1" 200 1636269
+[02/Jul/2023 21:19:21] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png HTTP/1.1" 200 1635790
+[02/Jul/2023 21:20:53] "GET / HTTP/1.1" 200 4341
+[02/Jul/2023 21:20:53] "GET /static/assets/css/thin-admin.css HTTP/1.1" 200 15747
+[02/Jul/2023 21:20:53] "GET /static/assets/css/bootstrap.css HTTP/1.1" 200 115297
+[02/Jul/2023 21:20:53] "GET /static/assets/style/style.css HTTP/1.1" 200 4742
+[02/Jul/2023 21:20:53] "GET /static/assets/css/font-awesome.css HTTP/1.1" 200 27101
+[02/Jul/2023 21:20:53] "GET /static/assets/style/dashboard.css HTTP/1.1" 200 3442
+[02/Jul/2023 21:20:53] "GET /static/assets/style/screen.css HTTP/1.1" 200 1753
+[02/Jul/2023 21:20:53] "GET /static/assets/style/lightbox.css HTTP/1.1" 200 4118
+[02/Jul/2023 21:20:53] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[02/Jul/2023 21:20:53] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+Not Found: /js/smooth-sliding-menu.js
+[02/Jul/2023 21:20:53] "GET /js/smooth-sliding-menu.js HTTP/1.1" 404 2478
+[02/Jul/2023 21:20:53] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[02/Jul/2023 21:20:53] "GET /static/goods/baozhentu.png HTTP/1.1" 200 2927
+[02/Jul/2023 21:20:53] "GET /static/goods/lipai.png HTTP/1.1" 200 2570
+[02/Jul/2023 21:20:53] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[02/Jul/2023 21:20:53] "GET /static/goods/yaoshikou.png HTTP/1.1" 200 2492
+[02/Jul/2023 21:20:53] "GET /static/goods/shubiaodian.png HTTP/1.1" 200 3230
+[02/Jul/2023 21:20:53] "GET /static/goods/other.png HTTP/1.1" 200 2288
+[02/Jul/2023 21:20:54] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 43572
+[02/Jul/2023 21:20:54] "GET /static/assets/img/loading.gif HTTP/1.1" 200 8476
+[02/Jul/2023 21:20:54] "GET /static/assets/img/close.png HTTP/1.1" 200 280
+[02/Jul/2023 21:20:54] "GET /static/assets/images/ios7.jpg HTTP/1.1" 200 521166
+Not Found: /favicon.ico
+[02/Jul/2023 21:20:54] "GET /favicon.ico HTTP/1.1" 404 2436
+[02/Jul/2023 21:20:59] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[02/Jul/2023 21:20:59] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 200 44807
+[02/Jul/2023 21:20:59] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 200 101353
+[02/Jul/2023 21:20:59] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 200 98179
+Not Found: /favicon.ico
+[02/Jul/2023 21:20:59] "GET /favicon.ico HTTP/1.1" 404 2436
+{'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'belfastpoki', 'link': '/Detail_baozhen_Azurlane/belfastpoki/', 'iconpath': '/static/goods/baozhen/Azurlane/belfastpoki/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/belfastpoki/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/belfastpoki/', 'datalist': [{'name': 'belfast-poki-daren', 'picpath': '/static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-daren_Detail.png'}, {'name': 'belfast-poki-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/belfastpoki/belfast-poki-zhengchang_Detail.png'}]}
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'belfastpoki', 'link': '/Detail_baozhen_Azurlane/belfastpoki/', 'iconpath': '/static/goods/baozhen/Azurlane/belfastpoki/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/zhenhai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/zhenhai/', 'datalist': [{'name': 'zhenhai-preview-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-zhengchang_Detail.png'}, {'name': 'zhenhai-preview-daren', 'picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/zhenhai/zhenhai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': []}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+[02/Jul/2023 21:21:00] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 21:21:01] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+Not Found: /favicon.ico
+[02/Jul/2023 21:21:01] "GET /favicon.ico HTTP/1.1" 404 2436
+[02/Jul/2023 21:21:02] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 21:21:02] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png HTTP/1.1" 200 98853
+[02/Jul/2023 21:21:02] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png HTTP/1.1" 200 97855
+Not Found: /favicon.ico
+[02/Jul/2023 21:21:02] "GET /favicon.ico HTTP/1.1" 404 2436
+[02/Jul/2023 21:21:07] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png HTTP/1.1" 200 1636269
+[02/Jul/2023 21:21:09] "GET /static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png HTTP/1.1" 200 1635790
+[02/Jul/2023 21:21:21] "GET /static/assets/img/prev.png HTTP/1.1" 200 1360
+[02/Jul/2023 21:21:21] "GET /Detail_baozhen_KOF/shiranuimai/ HTTP/1.1" 200 7474
+[02/Jul/2023 21:21:47,194] - Broken pipe from ('112.96.80.44', 28573)
+
+[02/Jul/2023 21:21:47,209] - Broken pipe from ('112.96.80.44', 36904)
+
+[02/Jul/2023 23:40:16] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[02/Jul/2023 23:40:16] "GET /static/assets/style/style.css HTTP/1.1" 200 4742
+[02/Jul/2023 23:40:16] "GET /static/assets/css/bootstrap.css HTTP/1.1" 200 115297
+[02/Jul/2023 23:40:16] "GET /static/assets/css/font-awesome.css HTTP/1.1" 200 27101
+[02/Jul/2023 23:40:16] "GET /static/assets/css/thin-admin.css HTTP/1.1" 200 15747
+[02/Jul/2023 23:40:16] "GET /static/assets/style/dashboard.css HTTP/1.1" 200 3442
+[02/Jul/2023 23:40:16] "GET /static/assets/style/screen.css HTTP/1.1" 200 1753
+[02/Jul/2023 23:40:16] "GET /static/assets/style/lightbox.css HTTP/1.1" 200 4118
+[02/Jul/2023 23:40:16] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[02/Jul/2023 23:40:16] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[02/Jul/2023 23:40:16] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+Internal Server Error: /Gamegoods_baozhen_KOF/js/smooth-sliding-menu.js
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 70, in game_goods_list
+    gamegoods = get_all_subdir(game_goods_dir)
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[02/Jul/2023 23:40:16] "GET /Gamegoods_baozhen_KOF/js/smooth-sliding-menu.js HTTP/1.1" 500 59237
+[02/Jul/2023 23:40:16] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+[02/Jul/2023 23:40:17] "GET /static/assets/images/ios7.jpg HTTP/1.1" 200 521166
+[02/Jul/2023 23:40:17] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[02/Jul/2023 23:40:17] "GET /static/assets/img/close.png HTTP/1.1" 200 280
+[02/Jul/2023 23:40:17] "GET /static/assets/img/loading.gif HTTP/1.1" 200 8476
+[02/Jul/2023 23:40:17] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 200 43572
+Not Found: /favicon.ico
+[02/Jul/2023 23:40:17] "GET /favicon.ico HTTP/1.1" 404 2436
+[03/Jul/2023 00:04:48] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 11:19:35] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[03/Jul/2023 11:19:36] "GET /favicon.ico HTTP/1.1" 404 2436
+[03/Jul/2023 20:02:02] code 400, message Bad request version ('À\x13À')
+[03/Jul/2023 20:02:02] You're accessing the development server over HTTPS, but it only supports HTTP.
+
+[03/Jul/2023 20:02:13] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 20:02:13,350] - Broken pipe from ('43.131.52.47', 16054)
+
+[03/Jul/2023 21:03:19] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:03:26] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:03:28] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[03/Jul/2023 21:03:28] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[03/Jul/2023 21:03:28] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[03/Jul/2023 21:03:28] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+Not Found: /favicon.ico
+[03/Jul/2023 21:03:34] "GET /favicon.ico HTTP/1.1" 404 2436
+[03/Jul/2023 21:28:30] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:28:31] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:28:31] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:28:31] "GET / HTTP/1.1" 200 4341
+[03/Jul/2023 21:28:32] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[03/Jul/2023 21:28:32] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[03/Jul/2023 21:28:32] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+[03/Jul/2023 21:28:32] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[03/Jul/2023 21:28:32] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 200 27726
+[03/Jul/2023 21:28:32] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 200 7389
+[03/Jul/2023 21:28:32] "GET /static/assets/js/jquery.js HTTP/1.1" 200 83606
+[03/Jul/2023 21:28:32] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 200 93107
+Not Found: /favicon.ico
+[03/Jul/2023 21:28:36] "GET /favicon.ico HTTP/1.1" 404 2433
+Not Found: /favicon.ico
+[03/Jul/2023 21:28:36] "GET /favicon.ico HTTP/1.1" 404 2439
+[04/Jul/2023 07:30:16] "GET / HTTP/1.1" 200 4341
+[04/Jul/2023 07:30:16] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[04/Jul/2023 07:30:16] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[04/Jul/2023 07:30:16] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[04/Jul/2023 07:30:16] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[04/Jul/2023 07:30:16] "GET /static/goods/other.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[04/Jul/2023 07:30:17] "GET /favicon.ico HTTP/1.1" 404 2436
+[04/Jul/2023 07:31:29] "GET / HTTP/1.1" 200 4341
+[04/Jul/2023 07:31:30] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[04/Jul/2023 07:31:31] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:31] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:31] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:32] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 4823
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/stlouis/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/belfastpoki/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:33] "GET /static/goods/baozhen/Azurlane/yetsan/icon.png HTTP/1.1" 304 0
+[04/Jul/2023 07:31:34] "GET /Detail_baozhen_Azurlane/taihouswimsuit/ HTTP/1.1" 200 7530
+[04/Jul/2023 07:31:34] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang.png HTTP/1.1" 200 90704
+[04/Jul/2023 07:31:34] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren.png HTTP/1.1" 200 90176
+[04/Jul/2023 07:31:37] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang_Detail.png HTTP/1.1" 200 1462094
+[04/Jul/2023 07:31:41] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren_Detail.png HTTP/1.1" 200 1425545
+Not Found: /favicon.ico
+[04/Jul/2023 10:57:27] "GET /favicon.ico HTTP/1.1" 404 2436
+[04/Jul/2023 11:01:44,584] - Broken pipe from ('103.7.29.100', 7355)
+
+[04/Jul/2023 11:01:44,611] - Broken pipe from ('103.7.29.100', 3598)
+
+Not Found: /example.com:80
+[04/Jul/2023 13:17:00] "CONNECT example.com:80 HTTP/1.1" 404 1791
+[04/Jul/2023 13:17:00] code 400, message Bad request syntax ('\x00')
+[04/Jul/2023 13:17:00] " " 400 -
+[04/Jul/2023 13:17:14] code 400, message Bad request syntax ('\x05\x01\x00')
+[04/Jul/2023 13:17:14] code 400, message Bad request syntax ('\x04\x01\x00P\x00\x00\x00\x01\x00example.com\x00')
+[04/Jul/2023 13:17:14] " P    example.com " 400 -
+[04/Jul/2023 13:17:14] " " 400 -
+Not Found: /favicon.ico
+[04/Jul/2023 13:58:17] "GET /favicon.ico HTTP/1.1" 404 2436
+[04/Jul/2023 15:00:38] "GET /static/assets/css/bootstrap.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/css/font-awesome.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/style/lightbox.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/style/screen.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/style/dashboard.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/css/thin-admin.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/style/style.css HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/js/jquery.js HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/js/bootstrap.min.js HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/javascript/jquery-1.10.2.min.js HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/javascript/lightbox-2.6.min.js HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/goods/baozhentu.png HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/goods/lipai.png HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/font/fontawesome-webfont.woff?v=3.2.1 HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/goods/yaoshikou.png HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/images/ios7.jpg HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/goods/other.png HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/goods/shubiaodian.png HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/img/loading.gif HTTP/1.1" 304 0
+[04/Jul/2023 15:00:38] "GET /static/assets/img/close.png HTTP/1.1" 304 0
+Not Found: /favicon.ico
+[04/Jul/2023 15:00:42] "GET /favicon.ico HTTP/1.1" 404 2436
+[05/Jul/2023 13:55:42] "GET / HTTP/1.1" 200 4341
+[05/Jul/2023 13:55:44] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[05/Jul/2023 13:55:44] "GET /static/goods/baozhen/KOF/icon.png HTTP/1.1" 200 44807
+[05/Jul/2023 13:55:44] "GET /static/goods/baozhen/Azurlane/icon.png HTTP/1.1" 200 98179
+[05/Jul/2023 13:55:44] "GET /static/goods/baozhen/Hokai3/icon.png HTTP/1.1" 200 101353
+[05/Jul/2023 13:55:46] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 5136
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/taihouswimsuit/icon.png HTTP/1.1" 200 77182
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/zhenhai/icon.png HTTP/1.1" 200 490839
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/AtagoSwim/icon.png HTTP/1.1" 200 74501
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/yetsan/icon.png HTTP/1.1" 200 82977
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/stlouis/icon.png HTTP/1.1" 200 83083
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/AzumaChinadress/icon.png HTTP/1.1" 200 83521
+[05/Jul/2023 13:55:46] "GET /static/goods/baozhen/Azurlane/belfastpoki/icon.png HTTP/1.1" 200 78851
+[05/Jul/2023 13:55:51] "GET /Detail_baozhen_Azurlane/AtagoSwim/ HTTP/1.1" 200 7497
+[05/Jul/2023 13:55:51] "GET /static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-zhengchang.png HTTP/1.1" 200 86841
+[05/Jul/2023 13:55:51] "GET /static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-daren.png HTTP/1.1" 200 86210
+[05/Jul/2023 13:55:53] "GET /static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-daren_Detail.png HTTP/1.1" 200 1344581
+[05/Jul/2023 13:55:54] "GET /static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-zhengchang_Detail.png HTTP/1.1" 200 1349983
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('647a38b2a47068535a98658ef0f7f6fa')
+[05/Jul/2023 14:02:10] "647a38b2a47068535a98658ef0f7f6fa" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TSTbdd60ff0b6bf832ce13ffef26d6a1a8f')
+[05/Jul/2023 14:02:10] "TSTbdd60ff0b6bf832ce13ffef26d6a1a8f" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('46c85d5855720d1b8e10478d24258615')
+[05/Jul/2023 14:02:10] "46c85d5855720d1b8e10478d24258615" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST26a99ad1c618c0c0cdba09fdfeea13b1')
+[05/Jul/2023 14:02:10] "TST26a99ad1c618c0c0cdba09fdfeea13b1" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST\x06\x00\x00\x000.25.0\x06\x00\x00\x000.25.0')
+[05/Jul/2023 14:02:10] "TST   0.25.0   0.25.0" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST3ecfeacfa947bad5c0e33232c53f2a49')
+[05/Jul/2023 14:02:10] "TST3ecfeacfa947bad5c0e33232c53f2a49" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST00f03d10622bba1cdd7d452d872e576b')
+[05/Jul/2023 14:02:10] "TST00f03d10622bba1cdd7d452d872e576b" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST\x06\x00\x00\x000.26.0\x06\x00\x00\x000.26.0')
+[05/Jul/2023 14:02:10] "TST   0.26.0   0.26.0" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('c131f3442049bb930d0c6c3e4dd7ac05')
+[05/Jul/2023 14:02:10] "c131f3442049bb930d0c6c3e4dd7ac05" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TSTb7288ada2ecfbd3d2006bff348770afc')
+[05/Jul/2023 14:02:10] "TSTb7288ada2ecfbd3d2006bff348770afc" 400 -
+[05/Jul/2023 14:02:10] code 400, message Bad request syntax ('TST91f0e93c45d1399d892642ae46d6f951')
+[05/Jul/2023 14:02:10] "TST91f0e93c45d1399d892642ae46d6f951" 400 -
+[05/Jul/2023 14:26:51] "GET / HTTP/1.1" 200 4341
+[05/Jul/2023 14:26:55] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[05/Jul/2023 14:26:57] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 5449
+[05/Jul/2023 14:26:58] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/icon.png HTTP/1.1" 200 79516
+[05/Jul/2023 14:26:58] "GET /static/goods/baozhen/Azurlane/AtagoSwim/icon.png HTTP/1.1" 200 74771
+[05/Jul/2023 14:27:15] "GET /Detail_baozhen_Azurlane/ShinanoRQ/ HTTP/1.1" 200 7481
+[05/Jul/2023 14:27:15] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ-daren.png HTTP/1.1" 200 93336
+[05/Jul/2023 14:27:15] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ_zhengchang.png HTTP/1.1" 200 94429
+[05/Jul/2023 14:27:17] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ-daren_Detail.png HTTP/1.1" 200 1550665
+[05/Jul/2023 14:27:18] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ_zhengchang_Detail.png HTTP/1.1" 200 1544794
+[05/Jul/2023 14:27:21] "GET /static/assets/img/prev.png HTTP/1.1" 200 1360
+[05/Jul/2023 14:27:25] "GET / HTTP/1.1" 200 4341
+Internal Server Error: /Pannel_lipai/
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/django/core/handlers/exception.py", line 47, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3/dist-packages/django/core/handlers/base.py", line 181, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 50, in games_list_panel
+    gamelist = get_all_subdir(goods_type_dir)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/data/neet/neet/view.py", line 23, in get_all_subdir
+    return dirs
+           ^^^^
+UnboundLocalError: cannot access local variable 'dirs' where it is not associated with a value
+[05/Jul/2023 14:28:18] "GET /Pannel_lipai/ HTTP/1.1" 500 60616
+[05/Jul/2023 14:35:18] "GET / HTTP/1.1" 200 4341
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/KOF/shiranuimai/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'KOF/shiranuimai/', 'datalist': [{'name': 'mai-preview-zhengchang', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-zhengchang_Detail.png'}, {'name': 'mai-preview-daren', 'picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren.png', 'detail_picpath': '/static/goods/baozhen/KOF/shiranuimai/mai-preview-daren_Detail.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'shiranuimai', 'link': '/Detail_baozhen_KOF/shiranuimai/', 'iconpath': '/static/goods/baozhen/KOF/shiranuimai/icon.png'}]}
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'belfastpoki', 'link': '/Detail_baozhen_Azurlane/belfastpoki/', 'iconpath': '/static/goods/baozhen/Azurlane/belfastpoki/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/taihouswimsuit/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/taihouswimsuit/', 'datalist': [{'name': 'taihou-swimsuit-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-zhengchang_Detail.png'}, {'name': 'taihou-swimsuit-daren', 'picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/taihou-swimsuit-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'belfastpoki', 'link': '/Detail_baozhen_Azurlane/belfastpoki/', 'iconpath': '/static/goods/baozhen/Azurlane/belfastpoki/icon.png'}, {'name': 'AtagoSwim', 'link': '/Detail_baozhen_Azurlane/AtagoSwim/', 'iconpath': '/static/goods/baozhen/Azurlane/AtagoSwim/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/AtagoSwim/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/AtagoSwim/', 'datalist': [{'name': 'AtagoSwimSuit-zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-zhengchang_Detail.png'}, {'name': 'AtagoSwimSuit-daren', 'picpath': '/static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/AtagoSwim/AtagoSwimSuit-daren_Detail.png'}]}
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'baozhen', 'datalist': [{'name': 'KOF', 'link': '/Gamegoods_baozhen_KOF/', 'iconpath': '/static/goods/baozhen/KOF/icon.png'}, {'name': 'Hokai3', 'link': '/Gamegoods_baozhen_Hokai3/', 'iconpath': '/static/goods/baozhen/Hokai3/icon.png'}, {'name': 'Azurlane', 'link': '/Gamegoods_baozhen_Azurlane/', 'iconpath': '/static/goods/baozhen/Azurlane/icon.png'}]}
+++++++++++++++LGR Debug++++++++++++++
+ {'datalist': [{'name': 'zhenhai', 'link': '/Detail_baozhen_Azurlane/zhenhai/', 'iconpath': '/static/goods/baozhen/Azurlane/zhenhai/icon.png'}, {'name': 'taihouswimsuit', 'link': '/Detail_baozhen_Azurlane/taihouswimsuit/', 'iconpath': '/static/goods/baozhen/Azurlane/taihouswimsuit/icon.png'}, {'name': 'stlouis', 'link': '/Detail_baozhen_Azurlane/stlouis/', 'iconpath': '/static/goods/baozhen/Azurlane/stlouis/icon.png'}, {'name': 'ShinanoRQ', 'link': '/Detail_baozhen_Azurlane/ShinanoRQ/', 'iconpath': '/static/goods/baozhen/Azurlane/ShinanoRQ/icon.png'}, {'name': 'AzumaChinadress', 'link': '/Detail_baozhen_Azurlane/AzumaChinadress/', 'iconpath': '/static/goods/baozhen/Azurlane/AzumaChinadress/icon.png'}, {'name': 'belfastpoki', 'link': '/Detail_baozhen_Azurlane/belfastpoki/', 'iconpath': '/static/goods/baozhen/Azurlane/belfastpoki/icon.png'}, {'name': 'AtagoSwim', 'link': '/Detail_baozhen_Azurlane/AtagoSwim/', 'iconpath': '/static/goods/baozhen/Azurlane/AtagoSwim/icon.png'}, {'name': 'yetsan', 'link': '/Detail_baozhen_Azurlane/yetsan/', 'iconpath': '/static/goods/baozhen/Azurlane/yetsan/icon.png'}]}
+---------------------- /home/data/neet/static/goods/baozhen/Azurlane/ShinanoRQ/
+++++++++++++++LGR Debug++++++++++++++
+ {'name': 'Azurlane/ShinanoRQ/', 'datalist': [{'name': 'ShinanoRQ-daren', 'picpath': '/static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ-daren.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ-daren_Detail.png'}, {'name': 'ShinanoRQ_zhengchang', 'picpath': '/static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ_zhengchang.png', 'detail_picpath': '/static/goods/baozhen/Azurlane/ShinanoRQ/ShinanoRQ_zhengchang_Detail.png'}]}
+index was called!!
+
+index was called!!
+
+++++++++++++++LGR Debug++++++++++++++
+ [05/Jul/2023 14:35:21] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[05/Jul/2023 14:35:25] "GET /Pannel_lipai/ HTTP/1.1" 200 2938
+[05/Jul/2023 14:35:28] "GET /Pannel_yaoshikou/ HTTP/1.1" 200 2942
+[05/Jul/2023 14:35:31] "GET /Pannel_shubiaodian/ HTTP/1.1" 200 2944
+[05/Jul/2023 14:35:35] "GET /Pannel_other/ HTTP/1.1" 200 2938
+[05/Jul/2023 14:35:39] "GET / HTTP/1.1" 200 4341
+[05/Jul/2023 14:35:40] "GET /Pannel_baozhen/ HTTP/1.1" 200 3814
+[05/Jul/2023 14:35:42] "GET /Gamegoods_baozhen_Azurlane/ HTTP/1.1" 200 5449
+[05/Jul/2023 14:35:42] "GET /static/goods/baozhen/Azurlane/ShinanoRQ/icon.png HTTP/1.1" 304 0
+[05/Jul/2023 14:35:42] "GET /static/goods/baozhen/Azurlane/AtagoSwim/icon.png HTTP/1.1" 304 0
+[05/Jul/2023 14:35:50] "GET /Gamegoods_baozhen_KOF/ HTTP/1.1" 200 3240
+[05/Jul/2023 14:35:50] "GET /static/goods/baozhen/KOF/shiranuimai/icon.png HTTP/1.1" 200 83397
+[05/Jul/2023 14:35:52] "GET / HTTP/1.1" 200 4341
